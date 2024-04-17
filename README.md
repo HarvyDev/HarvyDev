@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **franciscolbantunes@gmail.com**
 
-- ⚡ Fun fact :- Coding and Motorcycles are the reasons to live
+- ⚡ Fun fact : Coding and Motorcycles are the reasons to live
 
 <br>
 
