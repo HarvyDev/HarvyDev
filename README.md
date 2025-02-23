@@ -4,7 +4,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 Currently in my second year of the Software Engeneering degree at ISEL.
+- 🌱 Currently in my third year of the Software Engeneering degree at ISEL.
 
 - 📫 How to reach me **franciscolbantunes@gmail.com**
 
