@@ -48,10 +48,4 @@
 
 <br>
 
-<h3>GitHub stats:</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarvyDev&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=HarvyDev&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="GitHub stats" />
-</p>
-
 <p><img src="https://streak-stats.demolab.com/?user=HarvyDev&theme=dark&background=0d1117" alt="GitHub streak" /></p>
