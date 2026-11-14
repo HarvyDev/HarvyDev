@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer · Cybersecurity MSc student at the University of Lisbon</h3>
 
 - 💼 Software Engineer at **Finsolutia**, building mortgage/fintech systems with .NET Web APIs, SQL Server and Azure, using Dynatrace for observability and SonarQube for code quality
-- 🏍️ Building **RevUnion**, a media processing platform with a .NET 10 API and queue-based workers on Google Cloud
+- 🏍️ Building **RevUnion**, a motorcyclists oriented social media platform with a .NET 10 API, queue-based media processing workers and more, on Google Cloud
 - 🎓 Taking a master's degree in Cybersecurity at the University of Lisbon
 - 🔐 Moving towards security & networking
 - 📫 Reach me at **franciscolbantunes@gmail.com**
